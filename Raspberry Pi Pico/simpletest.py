@@ -1,3 +1,5 @@
+#Raspberry PI Pico version
+
 import board, busio, displayio
 import terminalio #Just a font
 import adafruit_ili9341
