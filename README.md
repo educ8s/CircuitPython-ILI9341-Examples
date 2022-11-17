@@ -6,13 +6,21 @@ This Colour TFT display is one of my favourite displays of all time. I have used
 
 The display has a resolution of 320x240 pixels and it uses the SPI interface to communicate with the microcontroller. The connection with the Raspberry Pi Pico board is very easy. All we have to do is to connect power and 6 more wires. Watch the video to see how to do it.
 
-<p align="center">
-  <img src="preview.jpg" alt="Final Result" width="640">
-</p>
-
 # Full Instructions Video
 
-Watch the video here: https://youtu.be/RtQqXMeYpqI
+<p align="center">
+  <img src="preview.jpg" alt="Final Result" width="800">
+</p>
+
+<p align="center">
+🎥 <a href="https://youtu.be/RtQqXMeYpqI">Video Tutorial on YouTube</a>
+</p>
+<br>
+<br>
+<p align="center">
+| 📺 <a href="https://www.youtube.com/educ8s">YouTube</a>
+| 🌍 <a href="http://www.educ8s.tv">Website</a> | <br>
+</p>
 
 # Parts Needed
 
